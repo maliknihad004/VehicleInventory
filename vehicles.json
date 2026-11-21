@@ -1,0 +1,17 @@
+[
+  { "id": 1, "brand": "Chery", "model": "Tiggo 7", "year": 2024, "price": 95000, "mileage": 15000, "color": "White", "status": "Available" },
+  { "id": 2, "brand": "Chery", "model": "Tiggo 8", "year": 2025, "price": 120000, "mileage": 5000, "color": "Black", "status": "Available" },
+  { "id": 3, "brand": "Chery", "model": "Arrizo 5", "year": 2022, "price": 60000, "mileage": 45000, "color": "Silver", "status": "Sold" },
+  { "id": 4, "brand": "Chery", "model": "Tiggo 4", "year": 2023, "price": 78000, "mileage": 25000, "color": "Red", "status": "Reserved" },
+  { "id": 5, "brand": "Chery", "model": "Arrizo 8", "year": 2025, "price": 110000, "mileage": 8000, "color": "Blue", "status": "Available" },
+  { "id": 6, "brand": "OMODA", "model": "C5", "year": 2024, "price": 105000, "mileage": 12000, "color": "Black", "status": "Available" },
+  { "id": 7, "brand": "OMODA", "model": "E5", "year": 2025, "price": 135000, "mileage": 3000, "color": "White", "status": "Reserved" },
+  { "id": 8, "brand": "OMODA", "model": "C5", "year": 2023, "price": 90000, "mileage": 30000, "color": "Gray", "status": "Sold" },
+  { "id": 9, "brand": "OMODA", "model": "C7", "year": 2025, "price": 145000, "mileage": 2000, "color": "Silver", "status": "Available" },
+  { "id": 10, "brand": "OMODA", "model": "E5", "year": 2024, "price": 125000, "mileage": 18000, "color": "Blue", "status": "Available" },
+  { "id": 11, "brand": "JAECOO", "model": "J7", "year": 2024, "price": 130000, "mileage": 10000, "color": "Green", "status": "Available" },
+  { "id": 12, "brand": "JAECOO", "model": "J8", "year": 2025, "price": 180000, "mileage": 4000, "color": "Black", "status": "Reserved" },
+  { "id": 13, "brand": "JAECOO", "model": "J7", "year": 2023, "price": 115000, "mileage": 35000, "color": "White", "status": "Sold" },
+  { "id": 14, "brand": "JAECOO", "model": "J8", "year": 2024, "price": 165000, "mileage": 14000, "color": "Gray", "status": "Available" },
+  { "id": 15, "brand": "JAECOO", "model": "J7", "year": 2025, "price": 140000, "mileage": 1000, "color": "Red", "status": "Available" }
+]
